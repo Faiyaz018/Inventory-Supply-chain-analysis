@@ -4,7 +4,7 @@ Managing inventory and ensuring an efficient supply chain are critical for busin
 
 ---
 
-## 🚀 Project Highlights
+##  Project Highlights
 
 In this project, you’ll learn how to:
 -  **Data Cleaning & Transformation**: Use Power Query to clean and model supply chain datasets.
